@@ -108,10 +108,5 @@ uvicorn app.api:app --reload --port 8000
 streamlit run app/ui.py
 ```
 
-
-
-### Why this README works for you:
-1.  **Cites your specific logic:** It explicitly mentions the "Condense Question" chain found in your `rag.py`.
-2.  **Accurate Tech Stack:** It lists the libraries exactly as they appear in your `requirements.txt` (FastAPI, Streamlit, LangChain, FAISS).
-3.  **Deployment Ready:** It includes specific instructions for Hugging Face Spaces (port 7860), matching your Docker configuration.
-```
+### 📹 Related YouTube Tutorial
+Deploying a Full-Stack RAG App to Hugging Face Spaces (FastAPI + Streamlit) 👉 [Click Here - TechData 360](https://youtu.be/S68ae5wbDuo)

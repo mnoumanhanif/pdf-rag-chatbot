@@ -1,4 +1,3 @@
-````markdown
 # 📚 Context-Aware PDF RAG Chatbot
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
